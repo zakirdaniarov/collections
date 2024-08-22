@@ -1,9 +1,12 @@
-<<<<<<< HEAD
-# collections
-=======
-# Getting Started with Create React App
+## Collection of Photos
+![1660250202173](https://user-images.githubusercontent.com/12086860/184237707-4810b1d8-f20b-40cf-93ea-37d2051b87ba.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**👀 Useful Concepts**
+1. Filtering Collections by Categories
+2. Searching Collections
+3. Pagination
+4. Fetching and Pagination via Backend
+5. Displaying Loading Information for Content
 
 ## Available Scripts
 
